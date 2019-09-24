@@ -1,7 +1,7 @@
 <template>
     <div>
         <ul>
-            <li v-for="(item,index) in listArr" @click='clickRouter(item)'>{{item.item}}</li>
+            <li v-for="(item,index) in listArr" :key='index' @click='clickRouter(item)'>{{item.item}}</li>
         </ul>
     </div>
 </template>
