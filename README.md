@@ -1,4 +1,4 @@
-# shoping
+# myapp
 
 ## Project setup
 ```
