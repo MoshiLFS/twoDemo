@@ -11,8 +11,8 @@ export default {
         return {
             listArr : [
                 {item : '首页' , path : '/'},
-                {item : '分类' , path : '/classfiy'},
-                {item : '识物' , path : '/generalThings'},
+                {item : '专题' , path : '/classfiy'},
+                {item : '分类' , path : '/generalThings'},
                 {item : '购物车' , path : '/shoppingTrolley'},
                 {item : '个人' , path : '/personage'}
             ] 
