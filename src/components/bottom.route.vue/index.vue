@@ -28,7 +28,7 @@ export default {
 
 <style lang='scss'>
     ul{ 
-        position: fixed;bottom:0;left:0;display:flex;width:100%;height:1.30667rem;border-top: 1px solid #d9d9d9;
+        position: fixed;bottom:0;left:0;display:flex;width:100%;height:1.30667rem;background:#fff;border-top: 1px solid #d9d9d9;
         >li{
             flex:1;display:flex;justify-content:center;align-items:center;
         }

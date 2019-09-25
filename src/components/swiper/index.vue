@@ -31,7 +31,6 @@ export default {
     computed:mapState({
         indexList:store=>store.recommend.indexList.banner
     }),
-    props : ['banner']
 }
 </script>
 

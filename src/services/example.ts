@@ -37,6 +37,8 @@ const getDetail=async()=>{
     const result=await instance.get('/topic/detail')
     return result
 }
+
+
 export {
     getHomeData,
     getChildData,
@@ -44,5 +46,5 @@ export {
     userAddress,
     getData,
     getList,
-    getDetail
+    getDetail,
 }
