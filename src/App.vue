@@ -14,17 +14,17 @@ export default {
 *{margin:0;padding:0;list-style:none;}
 html,body,#app{width:100%;height: 100%;}
 html {
-    font-size: calc(100 / 750 * 100vw);
+    // font-size: calc(100 / 750 * 100vw);
 }
 
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  font-size:30%;
-}
+// #app {
+//   font-family: 'Avenir', Helvetica, Arial, sans-serif;
+//   -webkit-font-smoothing: antialiased;
+//   -moz-osx-font-smoothing: grayscale;
+//   text-align: center;
+//   color: #2c3e50;
+//   font-size:30%;
+// }
 
 
 </style>

@@ -39,8 +39,8 @@ export default new Router({
     {path: '/home/globalFeature', component: GlobalFeature},//全球特色
     {path: '/login', component: Login}, //登录页
     {path: '/personage', component: Personage},  // 个人
-    {path: '/classfiy', component: Classfiy}, // 分类
-    {path: '/generalThings', component: GeneralThings}, //识物
+    {path: '/classfiy', component: Classfiy}, // 专题
+    {path: '/generalThings', component: GeneralThings}, //分类
     {path: '/shoppingTrolley', component: ShoppingTrolley}, //购物车
     {path: '/', redirect: '/home/recommend'},// 重定向
   ]

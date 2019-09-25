@@ -30,7 +30,7 @@
             </div>
         </div>
         <Buttom/>
-    </div>
+  </div>
 </template>
 <script>
 import Buttom from '../../components/bottom.route.vue/index.vue'
