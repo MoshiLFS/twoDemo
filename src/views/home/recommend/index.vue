@@ -50,17 +50,14 @@
         <h3>居家</h3>
         
         
-        <Bottom/>
     </div>
 </template>
 <script>
-import Bottom from '../../../components/bottom.route.vue/index.vue'
 import Swiper from '../../../components/swiper/index'
 import { mapState } from 'vuex'
-
 export default {
     components: {
-        Bottom,Swiper
+        Swiper
     },
     computed: mapState({
         itemData : store=> store.recommend.indexList.newGoodsList,

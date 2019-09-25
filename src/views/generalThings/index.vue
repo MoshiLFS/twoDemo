@@ -29,11 +29,10 @@
                 </div>
             </div>
         </div>
-        <Buttom/>
   </div>
 </template>
 <script>
-import Buttom from '../../components/bottom.route.vue/index.vue'
+// import Buttom from '../../components/bottom.route.vue/index.vue'
 import axios from 'axios'
 export default {
     data(){
@@ -42,7 +41,7 @@ export default {
         }
     },
     components: {
-        Buttom,
+        // Buttom,
     },
     // computed: mapState({
     //     abc : store=>store.generalThing.listType

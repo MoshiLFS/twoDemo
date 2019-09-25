@@ -1,12 +1,17 @@
 <template>
   <div id="app">
-    <router-view/>
+    <div class="watterBox">
+      <router-view/>
+    </div>
+    <Button/>
   </div>
 </template>
 <script>
-
+import Button from './components/bottom.route.vue/index.vue'
 export default {
-  
+    components:{
+      Button,
+    }
 }
 </script>
 
@@ -17,14 +22,12 @@ html {
     // font-size: calc(100 / 750 * 100vw);
 }
 
-// #app {
-//   font-family: 'Avenir', Helvetica, Arial, sans-serif;
-//   -webkit-font-smoothing: antialiased;
-//   -moz-osx-font-smoothing: grayscale;
-//   text-align: center;
-//   color: #2c3e50;
-//   font-size:30%;
-// }
+#app {
+  display:flex;flex-direction:column;
+  >.watterBox{
+    flex:1;overflow:auto;
+  }
+}
 
 
 </style>

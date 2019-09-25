@@ -59,14 +59,14 @@
       </div>
     </div>
     <div class="outlogin">退出登录</div>
-    <Buttom />
+    <!-- <Buttom /> -->
   </div>
 </template>
 <script>
-import Buttom from "../../components/bottom.route.vue/index.vue";
+// import Buttom from "../../components/bottom.route.vue/index.vue";
 export default {
   components: {
-    Buttom
+    // Buttom
   }
 };
 </script>
