@@ -75,7 +75,6 @@ export default {
 }
 </script>
 <style lang="scss" >
-    h3{height:1rem;display:flex;justify-content:center;align-items:center;}
     .recommend{
         width:100%;
     }

@@ -36,7 +36,7 @@ export default {
 
 <style lang="scss" >
     .swiper-container{
-        width:100%;height:4rem;
+        width:100%;
         >.swiper-wrapper{
             width: 100%;height:100%;
             >.swiper-slide{

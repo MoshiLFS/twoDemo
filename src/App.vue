@@ -21,6 +21,7 @@ html,body,#app{width:100%;height: 100%;}
 html {
     // font-size: calc(100 / 750 * 100vw);
 }
+    h3{height:3rem;display:flex;justify-content:center;align-items:center;}
 
 #app {
   display:flex;flex-direction:column;

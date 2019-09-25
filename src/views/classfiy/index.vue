@@ -97,7 +97,6 @@ a{
 }
 .topicItem > img {
   width: 100%;
-  height: 200px;
 }
 .topicItemTitle {
   padding: 10px;

@@ -68,7 +68,7 @@ export default {
    
 
     header{
-        height:.8rem;display:flex;padding:.2rem .4rem;background:#fff;
+        height:2rem;display:flex;padding:.2rem .4rem;background:#fff;
         >input{
             background:#eee;flex:1;text-align:Center;outline:0;border:0;
         }
@@ -79,7 +79,7 @@ export default {
         >.left{
             width:30%;
             >li{
-                height:.8rem;display:flex;justify-content:center;align-items:center;
+                height:1.6rem;display:flex;justify-content:center;align-items:center;
             }
         }
         >.right{
