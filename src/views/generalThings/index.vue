@@ -142,14 +142,14 @@ export default {
     width: 100%;
     height: auto;
     background: white;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .commentWrap .titleLine {
     width: 100%;
     height: 10px;
     position: relative;
     display: flex;
-    padding: 4px;
+    padding: 15px;
 }
 .commentWrap .titleLine div.titleName {
     flex: 1 1;
