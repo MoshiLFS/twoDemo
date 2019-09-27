@@ -17,7 +17,7 @@
         <img src="//yanxuan.nosdn.127.net/0d4004e19728f2707f08f4be79bbc774.jpg" />
         <img src="//yanxuan.nosdn.127.net/79ee021bbe97de7ecda691de6787241f.jpg" />
       </div>
-      <div class="commentWrap">
+      <div class="commentWrap"> 
         <div class="titleLine">
           <div class="titleName">精选留言</div>
           <div class="titleIcon">
@@ -48,7 +48,7 @@
             </div>
             <div class="userComment">很舒服，有没有那么的软，不错！</div>
             <div class="commentPicList"></div>
-          </div>
+          </div> 
           <div class="commentItem">
             <div class="userInfo">
               <div>匿名用户</div>

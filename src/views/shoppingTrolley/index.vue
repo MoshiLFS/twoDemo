@@ -1,6 +1,6 @@
 <template>
     <div>
-        this is shopping trolley pages.
+        this is shopping trolley pages....
         <Buttom/>
     </div>
 </template>
@@ -11,4 +11,4 @@ export default {
         Buttom,
     },
 }
-</script>
+</script>-
